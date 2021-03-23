@@ -14,9 +14,9 @@ Quatrieme projet du parcours "Développeur Web 100% en ligne 👌" chez www.open
 2. 👀 Le code source complet du site amélioré ;
 3. 📈 Un rapport d’optimisation comprenant une comparaison des résultats (y compris de la vitesse de chargement et l’accessibilité) ;
 
-### Mission
+## Mission
 
-**Analyse de l’état actuel de SEO du site fourni.**
+**Analyse de l’état actuel du SEO du site fourni.**
 - J’aimerais que tu indiques les parties du site qui ne sont pas optimisées pour le SEO et/ou qui ne sont pas à jour en termes d’accessibilité, et que tu justifies tes choix. Pense à ajouter la bonne pratique à mettre en place pour chaque partie du site qui n’est pas optimisée, en citant tes sources. Tu trouveras ci-joint un modèle pour réaliser ton analyse. Une fois ce modèle complété, j’aimerais que tu sélectionnes 10 recommandations pour améliorer le site. Je te laisse cocher ces 10 recommandations choisies dans la colonne “Action recommandée”.
 - Il faudra bien garder en tête que le but est que notre site soit mieux classé lorsqu’on tape **“Entreprise webdesign Lyon”** dans les moteurs de recherche. Martin voudrait qu’il y en ait au moins une sur la vitesse et la taille du site et une sur l’accessibilité. Actuellement, certains de nos utilisateurs rencontrent des problèmes d’accessibilité sur notre site, c’est un point sur lequel on veut s’améliorer. Tu devras donc ajouter les éléments nécessaires. La liste de ce que tu devras implémenter se trouve à cette adresse : https://developer.mozilla.org/fr/docs/Web/Accessibility/Mobile_accessibility_checklist
 
