@@ -18,7 +18,7 @@ Quatrieme projet du parcours "Développeur Web 100% en ligne 👌" chez www.open
 
 **Analyse de l’état actuel du SEO du site fourni.**
 - J’aimerais que tu indiques les parties du site qui ne sont pas optimisées pour le SEO et/ou qui ne sont pas à jour en termes d’accessibilité, et que tu justifies tes choix. Pense à ajouter la bonne pratique à mettre en place pour chaque partie du site qui n’est pas optimisée, en citant tes sources. Tu trouveras ci-joint un modèle pour réaliser ton analyse. Une fois ce modèle complété, j’aimerais que tu sélectionnes 10 recommandations pour améliorer le site. Je te laisse cocher ces 10 recommandations choisies dans la colonne “Action recommandée”.
-- Il faudra bien garder en tête que le but est que notre site soit mieux classé lorsqu’on tape **“Entreprise webdesign Lyon”** dans les moteurs de recherche. Martin voudrait qu’il y en ait au moins une sur la vitesse et la taille du site et une sur l’accessibilité. Actuellement, certains de nos utilisateurs rencontrent des problèmes d’accessibilité sur notre site, c’est un point sur lequel on veut s’améliorer. Tu devras donc ajouter les éléments nécessaires. La liste de ce que tu devras implémenter se trouve à [cette adresse] (https://developer.mozilla.org/fr/docs/Web/Accessibility/Mobile_accessibility_checklist)
+- Il faudra bien garder en tête que le but est que notre site soit mieux classé lorsqu’on tape **“Entreprise webdesign Lyon”** dans les moteurs de recherche. Martin voudrait qu’il y en ait au moins une sur la vitesse et la taille du site et une sur l’accessibilité. Actuellement, certains de nos utilisateurs rencontrent des problèmes d’accessibilité sur notre site, c’est un point sur lequel on veut s’améliorer. Tu devras donc ajouter les éléments nécessaires. La liste de ce que tu devras implémenter se trouve à ([cette adresse] (https://developer.mozilla.org/fr/docs/Web/Accessibility/Mobile_accessibility_checklist))
 
 **Amélioration du SEO du site.**
 - Il faudra ensuite optimiser notre site en appliquant tes 10 recommandations à son contenu et à son code source. Tu devras pour cela fournir le code source complet de la version améliorée du site. 
@@ -36,7 +36,7 @@ Quatrieme projet du parcours "Développeur Web 100% en ligne 👌" chez www.open
 
 ## Tester le projet
 
-Pour tester simplement & rapidement, veuillez préférer visiter la démo en ligne [ICI] (https://git504.github.io/La_chouette_agence/)
+Pour tester simplement & rapidement, veuillez préférer visiter la démo en ligne ([ICI] (https://git504.github.io/La_chouette_agence/))
 
 Sinon, clonez le projet
 ```terminal
