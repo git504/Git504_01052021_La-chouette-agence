@@ -36,7 +36,7 @@ Quatrieme projet du parcours "Développeur Web 100% en ligne 👌" chez www.open
 
 ## Tester le projet
 
-Pour tester simplement & rapidement, veuillez préférer visiter la démo en ligne ( [ICI] (https://git504.github.io/La_chouette_agence/) ).
+Pour tester simplement & rapidement, veuillez préférer visiter la démo en ligne ( [ICI](https://git504.github.io/La_chouette_agence) ).
 
 Sinon, clonez le projet
 ```terminal
